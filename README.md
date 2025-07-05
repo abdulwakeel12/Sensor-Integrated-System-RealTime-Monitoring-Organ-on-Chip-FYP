@@ -1,7 +1,7 @@
 # Sensor Integrated System for Real-Time and Online Monitoring for Organ-on-Chip Platforms
 
 🎓 **Final Year Project – 8th Semester**  
-📅 **Duration:** January 2024 – June 2024  
+📅 **Duration:** June 2024 – Fab 2025  
 🏫 **Institution:** Sukkur IBA University  
 🧪 **Course:** Final Year Project (FYP)  
 👨‍🏫 **Supervisor:** Dr. Fida Hussain Memon  
@@ -47,14 +47,26 @@ Animal-based drug testing faces ethical and legal challenges. A technology-drive
 
 ## 📽️ Videos
 
-- 🎥 [Final Year Project Demonstration](https://www.youtube.com/watch?v=0-vUgKT5vcs)  
-- 🖥️ [Complete Final Presentation](https://www.youtube.com/watch?v=0-vUgKT5vcs)
+- 🖥️ [Complete Final Presentation](https://www.youtube.com/watch?v=7pkITxW6haI)
+- 🎥 [Final Year Project Demonstration](https://www.youtube.com/watch?v=cucBItae0vw)  
+
 
 ---
 
 ## 📄 Documentation
 
-- Thesis: `FYP_Thesis.docx`  
-- Presentation: `Final Defence.pptx`  
+| File Name                                | Description                           |
+|------------------------------------------|---------------------------------------|
+| `0 Proposal Defence.pptx`                | Initial project proposal presentation |
+| `1st Evaluation.pptx`                    | First evaluation presentation         |
+| `2nd Evaluation.pptx`                    | Second evaluation presentation        |
+| `Final Defence.pptx`                     | Final year project presentation       |
+| `FYP Proforma filled.docx`               | Official project proforma             |
+| `FYP Proposal Submission filled.docx`    | Submitted proposal document           |
+| `FYP_Thesis.docx`                        | Complete thesis report                |
+| `Poster.pdf`                             | Final year project poster             |
+| `Research Papers/`                       | Supporting research papers folder     |
+
+---
 
 > All documents and code are included in this repository.
