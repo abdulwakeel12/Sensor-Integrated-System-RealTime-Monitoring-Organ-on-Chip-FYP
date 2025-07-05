@@ -65,7 +65,6 @@ Animal-based drug testing faces ethical and legal challenges. A technology-drive
 | `FYP Proposal Submission filled.docx`    | Submitted proposal document           |
 | `FYP_Thesis.docx`                        | Complete thesis report                |
 | `Poster.pdf`                             | Final year project poster             |
-| `Research Papers/`                       | Supporting research papers folder     |
 
 ---
 
